@@ -1,0 +1,13 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+  </defs>
+  <path d="M80 60V240C80 240 220 240 220 150C220 60 80 60 80 60Z"
+        stroke="url(#logoGrad)" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="220" cy="150" r="20" fill="#F43F5E" />
+
+  <text x="280" y="175" fill="#FFFFFF" style="font-family: sans-serif; font-weight: 800; font-size: 110px; letter-spacing: -2px;">Debug<tspan fill="url(#logoGrad)">Flow</tspan></text>
+</svg>
